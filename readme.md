@@ -20,11 +20,6 @@ _Languages and tools_ 🧰
 </div>
 
 <div>
-  <img src="https://img.shields.io/badge/C%20Programming-00599C?style=for-the-badge&logo=C&LogoColor=A8B9CC" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
-</div>
-
-<div>
   <img src="https://img.shields.io/badge/C%20Programming%20Language-00599C?style=for-the-badge&logo=C&LogoColor=A8B9CC" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/R%20Programming%20Language-276DC3?style=for-the-badge&logo=R&logoColor=white" />
